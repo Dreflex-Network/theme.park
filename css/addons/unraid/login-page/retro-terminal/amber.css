@@ -6,7 +6,7 @@
 
 @import url(/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
 :root {
---main-bg-color:black;
+--main-bg-color:red;
 --body-before:#ffb52a1a;
 --body-after: #ffb52a33;
 --body-animation: flicker;
